@@ -1,6 +1,6 @@
 # Hi, I'm Menglan
 
-**Software Engineer (Backend-focused)**
+**Software Engineer**
 
 Interested in building reliable systems, clean APIs and production-ready applications.
 
