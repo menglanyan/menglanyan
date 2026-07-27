@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Menglan
 
-<!--
-**menglanyan/menglanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Risk Analytics | Data Science & AI**
 
-Here are some ideas to get you started:
+Focused on applying data science and machine learning to risk analytics, portfolio management and data-driven decision making in financial services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+- Python
+- SQL
+- Excel
+- Power BI
+- Git
+
+---
+
+## Featured Project
+
+### Credit Strategy Analytics & Portfolio Risk Monitoring Platform
+
+An end-to-end retail credit risk analytics project demonstrating how data science and machine learning can support lending decisions, portfolio management and credit strategy.
+
+Key components include:
+
+- Probability of Default (PD) Modelling
+- Portfolio Risk Analytics
+- Credit Strategy Evaluation
+- Portfolio Risk Segmentation
+- Stress Testing
+- Portfolio Monitoring Framework
+- Management Reporting
+
+**Tech Stack** Python | XGBoost | pandas | scikit-learn | Matplotlib
+
+🔗 [**View Repository**](https://github.com/menglanyan/Credit-Strategy-Analytics-and-Portfolio-Risk-Monitoring-Platform)
+
+---
